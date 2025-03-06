@@ -82,7 +82,7 @@ Ensure you have the following installed:
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the Apache License - see the [LICENSE](https://github.com/adityamawa/iClone/blob/main/LICENSE) file for details. 
 
 ## Acknowledgments
 
