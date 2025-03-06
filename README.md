@@ -2,6 +2,9 @@
 
 A clone of the Apple website built using modern web technologies such as **JavaScript**, **GSAP**, **ReactJS**, **TailwindCSS**, and **ThreeJS**. This project replicates the sleek and interactive design of the Apple website, showcasing animations, responsive layouts, and 3D visual elements.
 
+## 🚀 Live Demo  
+🔗 [View Project](http://iclone-zeta.vercel.app/)  
+
 ## Features
 
 - **Dynamic Animations**: Powered by GSAP for smooth and engaging transitions.
@@ -78,6 +81,8 @@ Ensure you have the following installed:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## Acknowledgments
 
